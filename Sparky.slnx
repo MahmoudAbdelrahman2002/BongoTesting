@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/BongoWeb/">
+    <Project Path="../../../Desktop/Section 7/Bongo_InitialSetup (.NET 6)/Bongo.Core/Bongo.Core.csproj" />
+    <Project Path="../../../Desktop/Section 7/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/Bongo.DataAccess.csproj" />
+    <Project Path="../../../Desktop/Section 7/Bongo_InitialSetup (.NET 6)/Bongo.Models/Bongo.Models.csproj" />
+    <Project Path="../../../Desktop/Section 7/Bongo_InitialSetup (.NET 6)/Bongo.Web/Bongo.Web.csproj" />
+    <Project Path="Bongo.Core.Tests/Bongo.Core.Tests.csproj" Id="d90431f9-b4e1-40ac-b916-055db2b6011c" />
+    <Project Path="Bongo.DataAccess.Tests/Bongo.DataAccess.Tests.csproj" Id="3ab6cee7-4f39-4f3f-8dca-d8d061bbcea8" />
+    <Project Path="Bongo.Models.Tests/Bongo.Models.Tests.csproj" Id="a1c297d5-ef31-4171-8cb8-931a45e97080" />
+    <Project Path="Bongo.Web.Tests/Bongo.Web.Tests.csproj" Id="313e146c-3291-4fed-9a1a-3d1c9bbddcca" />
+  </Folder>
+</Solution>

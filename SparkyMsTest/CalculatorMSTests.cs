@@ -1,0 +1,26 @@
+﻿using Sparky;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace SparkyMsTest
+{
+    [TestClass]
+    public class CalculatorMSTests
+    {
+        [TestMethod]
+        public void AddNumbers_InputTwoIntegers_GetCorrectAddition()
+        {
+            //Arrange
+            Calculator calculator = new Calculator();
+            // Act
+            int result = calculator.AddNumbers(10, 20);
+            // Assert
+            Assert.AreEqual(30, result);
+
+
+        }
+
+    }
+
+}
